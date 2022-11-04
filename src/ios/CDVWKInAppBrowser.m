@@ -34,7 +34,7 @@
 #define    kInAppBrowserToolbarBarPositionBottom @"bottom"
 #define    kInAppBrowserToolbarBarPositionTop @"top"
 
-#define    IAB_BRIDGE_NAME @"cordova_iab"
+#define    IAB_BRIDGE_NAME @"webview"
 
 #define    TOOLBAR_HEIGHT 44.0
 #define    LOCATIONBAR_HEIGHT 21.0
